@@ -1,0 +1,41 @@
+/* CSS styling for code along */
+
+/* Change the background color of the whole page by editing the background-color property. */
+body {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 24px;
+    background-color: #ffe9ad;
+}
+
+/* Add a border around the header section by editing the border property. */
+.header {
+    border: 5px solid black;
+}
+
+/* Style the main heading by changing the width, padding, and font size. */
+h1 {
+    border-bottom: 2px solid #f1f1f1;
+    width: 30%;
+    padding: 20px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 35px;
+}
+
+/* Change the width of each image by editing the width property. */
+img {
+    width: 200px;
+}
+
+/* Add space around each image by editing the padding and margin properties. */
+img {
+    padding: 5px;
+    margin: 5px;
+}
+
+/* Change the flex layout by editing the display and justify-content properties. */
+.row1,
+.row2 {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
