@@ -1,24 +1,23 @@
 /* CSS styling for code along */
 
-/* Step 1: Use a basic tag selector to change the background color and page text styles. */
+/* Step 1: Change the background color and page text styles. */
 body {
     font-family: 'Roboto Mono', monospace;
-    font-size: 24px;
-    color: #333333;
-    background-color: #ffe9ad;
+    font-size: 12px;
+    /* Change the background color and the text color */
+    
 }
 
-/* Step 2: Use a basic tag selector to change the heading width and color. */
-h1 {
-    width: 50%;
-    color: #3b2f2f;
-}
+/* Step 2: Change the h1 heading width and color. */
 
-/* Step 3: Use a basic tag selector to change paragraph text size and color. */
-p {
-    font-size: 18px;
-    color: #4b4b4b;
-}
+
+/* Step 3: Change paragraph text size and color. */
+
+
+
+/* ****************** */
+/* ****** STOP ****** */
+/* ****************** */
 
 /* Step 4: Use a class selector with the . selector to style the header section. */
 .header {
